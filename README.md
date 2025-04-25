@@ -31,5 +31,3 @@ Acest repository conține scripturile principale pentru jocul meu 2D realizat î
 - Scripts/Collectible/ResourceCounter.cs: controlează colectarea de resurse de către jucător.
 - Scripts/Collectible/CollectibleLife.cs: gestionează obiectele care oferă viață suplimentară jucătorului atunci când sunt colectate.
 - Scripts/Collectible/Collectible.cs: reprezintă obiectele colectibile din joc (resursele), gestionând interacțiunile acestora cu jucătorul.
-
-Toate scripturile sunt comentate și modularizate pentru ușurință în citire și înțelegere.
